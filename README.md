@@ -19,8 +19,6 @@ This project employs advanced deep learning models, including Convolutional Neur
 - [Results](#results)
 - [Challenges and Future Work](#challenges-and-future-work)
 - [How to Use](#how-to-use)
-- [Repository Structure](#repository-structure)
-- [Contributors](#contributors)
 
 ## Problem Objective
 
